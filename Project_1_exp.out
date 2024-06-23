@@ -1,0 +1,86 @@
+
+                                      ARENA Simulation Results
+                                   Windows User - License: STUDENT
+
+                                  Summary for Replication 1 of 1
+
+Project: Unnamed Project                                             Run execution date :11/ 8/2021
+Analyst: Windows User                                                Model revision date:11/ 8/2021
+
+Replication ended at time      : 24.206279 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Entity 1.VATime                             .50833     (Insuf)    .50833     .50833         30    
+Entity 1.NVATime                            .00000     (Insuf)    .00000     .00000         30    
+Entity 1.WaitTime                           .02074     (Insuf)    .00000     .18284         30    
+Entity 1.TranTime                           .00000     (Insuf)    .00000     .00000         30    
+Entity 1.OtherTime                          .00000     (Insuf)    .00000     .00000         30    
+Entity 1.TotalTime                          .52907     (Insuf)    .50833     .69117         30    
+Filler blocked.Queue.WaitingTime            .00000     (Insuf)    .00000     .00000         30    
+Sealing.Queue.WaitingTime                   .00000     (Insuf)    .00000     .00000         30    
+Carton Packing.Queue.WaitingTime            .00000     (Insuf)    .00000     .00000         30    
+Capping.Queue.WaitingTime                   .00000     (Insuf)    .00000     .00000         30    
+Labeling.Queue.WaitingTime                  .00751     (Insuf)    .00000     .07500         30    
+Filling.Queue.WaitingTime                   .01323     (Insuf)    .00000     .10784         30    
+Capper blocked.Queue.WaitingTime            .00000     (Insuf)    .00000     .00000         30    
+Sealer blocked.Queue.WaitingTime            .00000     (Insuf)    .00000     .00000         30    
+Labeller blocked.Queue.WaitingTime          .00000     (Insuf)    .00000     .00000         30    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                .65571     (Insuf)    .00000     5.0000     .00000    
+Filler.NumberBusy                           .13426     (Insuf)    .00000     1.0000     .00000    
+Filler.NumberScheduled                      1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Filler.Utilization                          .13426     (Insuf)    .00000     1.0000     .00000    
+Labeller.NumberBusy                         .16525     (Insuf)    .00000     1.0000     .00000    
+Labeller.NumberScheduled                    1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Labeller.Utilization                        .16525     (Insuf)    .00000     1.0000     .00000    
+Sealer.NumberBusy                           .10328     (Insuf)    .00000     1.0000     .00000    
+Sealer.NumberScheduled                      1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Sealer.Utilization                          .10328     (Insuf)    .00000     1.0000     .00000    
+Capper.NumberBusy                           .10328     (Insuf)    .00000     1.0000     .00000    
+Capper.NumberScheduled                      1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Capper.Utilization                          .10328     (Insuf)    .00000     1.0000     .00000    
+Packer.NumberBusy                           .12393     (Insuf)    .00000     1.0000     .00000    
+Packer.NumberScheduled                      1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Packer.Utilization                          .12393     (Insuf)    .00000     1.0000     .00000    
+Filler blocked.Queue.NumberInQueue          .00000     (Insuf)    .00000     .00000     .00000    
+Sealing.Queue.NumberInQueue                 .00000     (Insuf)    .00000     .00000     .00000    
+Carton Packing.Queue.NumberInQueue          .00000     (Insuf)    .00000     .00000     .00000    
+Capping.Queue.NumberInQueue                 .00000     (Insuf)    .00000     .00000     .00000    
+Labeling.Queue.NumberInQueue                .00931     (Insuf)    .00000     1.0000     .00000    
+Filling.Queue.NumberInQueue                 .01640     (Insuf)    .00000     1.0000     .00000    
+Capper blocked.Queue.NumberInQueue          .00000     (Insuf)    .00000     .00000     .00000    
+Sealer blocked.Queue.NumberInQueue          .00000     (Insuf)    .00000     .00000     .00000    
+Labeller blocked.Queue.NumberInQueue        .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity 1.NumberIn                           30.000    
+Entity 1.NumberOut                          30.000    
+Filler.NumberSeized                         30.000    
+Filler.ScheduledUtilization                 .13426    
+Labeller.NumberSeized                       30.000    
+Labeller.ScheduledUtilization               .16525    
+Sealer.NumberSeized                         30.000    
+Sealer.ScheduledUtilization                 .10328    
+Capper.NumberSeized                         30.000    
+Capper.ScheduledUtilization                 .10328    
+Packer.NumberSeized                         30.000    
+Packer.ScheduledUtilization                 .12393    
+System.NumberOut                            30.000    
+
+
+Simulation run time: 0.02 minutes.
+Simulation run complete.

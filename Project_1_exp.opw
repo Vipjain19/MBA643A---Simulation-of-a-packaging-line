@@ -1,0 +1,19 @@
+[RESOURCES]
+Filler
+Labeller
+Sealer
+Capper
+Packer
+[VARIABLES]
+Sealing.NumberOut
+Carton Packing.NumberIn
+Carton Packing.NumberOut
+Capping.NumberOut
+Dispose 1.NumberOut
+Filling.NumberOut
+Capping.NumberIn
+Sealing.NumberIn
+Labeling.NumberOut
+Labeling.NumberIn
+Filling.NumberIn
+Arrival.NumberOut
